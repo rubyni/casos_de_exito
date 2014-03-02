@@ -1,4 +1,3 @@
-casos_de_exito
-==============
+#Casos de Éxito
 
-Una lista de casos de éxito usando Ruby en Nicaragua
+Una lista de proyectos creados usando Ruby en Nicaragua.
