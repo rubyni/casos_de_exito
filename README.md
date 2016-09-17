@@ -10,3 +10,4 @@ Una lista de proyectos creados usando Ruby en Nicaragua ordenados según el alfa
 * http://www.leybook.com
 * http://www.rubyledger.com
 * http://www.sernicaes.com
+* http://www.ticketango.com
