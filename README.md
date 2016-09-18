@@ -4,10 +4,10 @@ Una lista de proyectos creados usando Ruby en Nicaragua ordenados según el alfa
 
 * http://www.agplanilla.com
 * http://www.apinic.org
-* http://www.ccnn.org.ni
 * http://www.chacuatool.com
 * http://www.informanteapp.co
 * http://www.leybook.com
 * http://www.rubyledger.com
 * http://www.sernicaes.com
-* http://www.ticketango.com
+* https://www.ticketango.com
+* https://www.nuhome.com.ni
