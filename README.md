@@ -16,6 +16,10 @@ El sitio web de Canal 12 Nicaragua está desarrollado en Ruby usando el Framewor
 
 * [www.chacuatool.com](http://www.chacuatool.com)
 
+### Estación Vital
+
+* [www.estacionvital.com](https://www.estacionvital.com)
+
 ### Ley Book
 
 * [www.leybook.com](http://www.leybook.com)
